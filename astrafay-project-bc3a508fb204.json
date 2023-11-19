@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "astrafay-project",
+  "private_key_id": "bc3a508fb204df5412e3156afd8b2942d04a91a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTbQ87oEVkOM1c\npIjNACunGbtPFxWrbNfQysT9a4MIxvCr5pYQQxWWCSAZVZ765MkSvF7DfkLNgOLQ\nHBogFlmevklY7FkR5CG/tb2ygCusW8gPnp1BjM2RoXvGgtKq1s0SsASQAASMqVuj\nPInNR7xPMAzDydah9qhPhmYRj0DCUtUyI62+7Q9XMP9IvyDegdJX51r/yrj0mikT\nwOGv1K7t3ft2aTC67UywPa42Gtit6ObgAgCc62R73wCe9Q1gIqmK0yheJRef/z3F\nTzXeO9wOZ7Pi4cBIJKBtHfNszh2Hj/Uf5IuYWCXWadahSQejS+Bqhn9rQoY9A156\nLQqNxs4TAgMBAAECggEABvXBIFmCrSaZW2RRKQx3Ax6N30ABv+QVlD/eaPBocUOj\nHRp3vzDLlhe8MjX+mW2vqHjIKIaPdNA+5QBOo3Eqrfnh0Jbn5ZZVmY1k9UZjyXFT\n0pj0Z6HUGqn7A/YtJ++YIue4b2vwyws7zksPXmeilkJ4d83Rmjfg3lBEBVQ0BHh+\nRfQ9BaI9MuaS7n/aokUrmRfu+OJ9mha9eyExtsPrCydrZPGTDwKuRASKcr529ueP\nfYD/RHl5Aip8yiHXcLYqJJ7gRMFeZwGjXU2wHy+fhp4PKtC2iRwRPUrZbI0qt20R\ntnRCZN6cAPMnR8WOk6V8/BELDvvXWUdGDFNMloGOUQKBgQDMoasCGnj+nX7rmp2p\numaw+9rU30OPKkj30nnIoq8ck+Yz1o0Wos8LHlrMvrSycAmnMtUl24atw/uMQBs1\nowo1AzHqpKZi3d9kCNxcusuud+GmyfK3PW4nMYbDrJXd1RXTeNu2dgzhH2hqK476\nP4hyBk8/mMPzo0EWWCvDwAUgFQKBgQC4byrQOXKsLwp1ObtvWmZvce5mnixGCios\nodz0UVsJvYyq91HCVzAwIvJlvs/AMRYn7K4IJB/qi0ALkcRdkUaNyJRs6talgMF+\nzw+bV2ums1oNBmjiKxjn/jCHVxcMLu/cMI1QKKouvgaI2J2Phi2eQKKNwwe6uFJO\ndE2nS60XhwKBgHNeboCIFlFO0GDa0isACaecxxqfKYLMz0jRZJHmjp2pEO+G9hKe\nBeb53S10E4JKwlZ+xUdLxlmvleHTvsN1wWpz+6+T1q8E8k5+5GZvdihONG2JjAsd\nWj5EoPsvEWt5GI4apJzxX3+I6qB5IGocabwHrKRpZ4i0MRz85ue9GealAoGBAIp2\nIu06A8YSdsZ09itt8bM/FFyD6PcYEHt7dTcSkMcqP53mmMHO1QV+Zv5NlwhRkbGd\ndTX1cOSTcBx/ba1VMGOnLw7p6wVLOXjrGGtl4RLAWR2oLzuEYWlhoqsojcv+vOJQ\nrPZ94O3AiYVZIkiq0jqZia/luDrMwDXYCKhNHwCnAoGACGVTMWMXzlP8M8VrProf\noWzASOdaN7QHxw7TdSr7ySjNpyjBR/nUlFz7rO1U8uayj2KRrSp8WLblVrvxdG89\nvmRQ7Vl680VDDaTRXkV3eRnUxPUQe5IwMRpBT8Q6NL8dbz/9W1UCm0FXajEjc8Yy\nAkjvskOV8kP0UjKjvZ5LkRs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "astrafay-service-account@astrafay-project.iam.gserviceaccount.com",
+  "client_id": "112437912633688189623",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/astrafay-service-account%40astrafay-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
