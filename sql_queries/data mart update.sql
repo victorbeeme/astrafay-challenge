@@ -1,4 +1,4 @@
-CREATE OR REPLACE TABLE astrafay-project.bitcoin_cash_data.test_data_mart AS
+INSERT INTO astrafay-project.bitcoin_cash_data.data_mart
 SELECT
   COALESCE(o.address, i.address) AS address,
   COALESCE(total_output_value, 0) - COALESCE(total_input_value, 0) AS balance
